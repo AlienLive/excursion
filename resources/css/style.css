@@ -1,0 +1,15 @@
+html {
+	background-color: black;
+}
+
+p, h1, h2, h3 {
+	font-family: verdana;
+	color: white;
+	text-align: center;
+}
+
+
+video {
+	display: block;
+	margin: 0 auto;
+}
