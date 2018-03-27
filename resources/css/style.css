@@ -8,8 +8,29 @@ p, h1, h2, h3 {
 	text-align: center;
 }
 
+#download {
+	color: aquamarine;
+	font-size: 14px;
+}
+
+#copyright {
+	text-align: right;
+	color: gray;
+	font-size: 10px;
+}
+
 
 video {
 	display: block;
 	margin: 0 auto;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+#camp {
+	width: 450px;
+	height: 250px;
 }
